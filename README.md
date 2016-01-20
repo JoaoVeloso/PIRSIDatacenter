@@ -1,7 +1,15 @@
 # PIRSIDatacenter
 Trabalho sobre Datacenters (PIRSI)
 
-# A fazer: ...
+#########################################################
+	Atividade 1: Análise de requisitos
+		- Definição dos objetivos
+		- Levantamento das necessidades
+			Todas as necessidades 
+		- Identificação de condicionantes
+			Não é prioritário; Memória descritiva (descrever o projeto, passagem de cabelagem - calha técnica (garatindo uma distância de segunraça entre os dois tipos de cabos))
+			O que for mesmo “usual”, é necessário explicar o que não for bem explicito. 
+#########################################################
 
 # Plano Aulas pelo fneves:
 13-Jan Continuação da análise de requisitos. Início da elaboração de uma "memória descritiva"
