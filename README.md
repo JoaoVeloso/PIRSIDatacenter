@@ -1,6 +1,25 @@
 # PIRSIDatacenter
 Trabalho sobre Datacenters (PIRSI)
 
+
+Veloso:
+  - Planta terminada e descrição; 
+  - medições da cablagem;
+  - posição dos Racks como também do sistema do ar condicionado e do sistema anti-fogo;
+
+Sousa: 
+Em doc word: 
+  - Todos os equipamentos com as caracteristicas principais, foto;
+  - Noutra folha: Bibliografia (Nome produto, site, consultado em..)
+
+Rui:
+Ajuda-me no relatório!!
+
+(EM ATUALIZAÇÃO PERMANENTE 24/7)
+
+
+
+
 #########################################################
 	Atividade 1: Análise de requisitos
 		- Definição dos objetivos
@@ -12,6 +31,8 @@ Trabalho sobre Datacenters (PIRSI)
 #########################################################
 
 # Plano Aulas pelo fneves:
+
+#########################################################################
 13-Jan Continuação da análise de requisitos. Início da elaboração de uma "memória descritiva"
 
 15-Jan Planeamento: - Modelo de funcionamento, Elaboração de uma "memória descritiva" (continuação). Visita ao Data Center "Leiria Região Digital"
@@ -27,3 +48,4 @@ Trabalho sobre Datacenters (PIRSI)
 27-Jan Conclusão da realização do projecto. Apresentações relativas ao 3º módulo (condicionado).
 
 29-Jan Apresentação dos projectos, Módulos 1, 2 e 3
+#########################################################################
