@@ -1,21 +1,25 @@
 # PIRSIDatacenter
 Trabalho sobre Datacenters (PIRSI)
 
+Legenda:
+Completo - ✔
+A decorrer - ✐
+Por fazer - ✘
 
 Veloso:
-  - Planta terminada e descrição; 
-  - medições da cablagem;
-  - posição dos Racks como também do sistema do ar condicionado e do sistema anti-fogo;
+  - Planta terminada e descrição; ✔
+  - medições da cablagem; ✔ 
+  - posição dos Racks como também do sistema do ar condicionado e do sistema anti-fogo; ✐
 
 Sousa: 
 Em doc word: 
-  - Todos os equipamentos com as caracteristicas principais, foto;
-  - Noutra folha: Bibliografia (Nome produto, site, consultado em..)
-  - Orçamento (Folha excel e tabela tb em word)
-  - Faz um pie chart (Para demonstrar onde foi gasto mais guito)
+  - Todos os equipamentos com as caracteristicas principais, foto; ✘
+  - Noutra folha: Bibliografia (Nome produto, site, consultado em..) ✔
+  - Orçamento (Folha excel e tabela tb em word) ✔
+  - Faz um pie chart (Para demonstrar onde foi gasto mais guito) ✐
 
 Rui:
-Ajuda-me no relatório!!
+Ajuda-me no relatório!! ✐
 
 (EM ATUALIZAÇÃO PERMANENTE 24/7)
 
