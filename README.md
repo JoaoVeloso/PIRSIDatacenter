@@ -13,10 +13,10 @@ Veloso:
 
 Sousa: 
 Em doc word: 
-  - Todos os equipamentos com as caracteristicas principais, foto; ✘
+  - Todos os equipamentos com as caracteristicas principais, foto; ✐
   - Noutra folha: Bibliografia (Nome produto, site, consultado em..) ✔
   - Orçamento (Folha excel e tabela tb em word) ✔
-  - Faz um pie chart (Para demonstrar onde foi gasto mais guito) ✐
+  - Faz um pie chart (Para demonstrar onde foi gasto mais guito) ✔
 
 Rui:
 Ajuda-me no relatório!! ✐
