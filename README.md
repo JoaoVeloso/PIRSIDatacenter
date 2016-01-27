@@ -9,7 +9,7 @@ Por fazer - ✘
 Veloso:
   - Planta terminada e descrição; ✔
   - medições da cablagem; ✔ 
-  - posição dos Racks como também do sistema do ar condicionado e do sistema anti-fogo; ✐
+  - posição dos Racks como também do sistema do ar condicionado e do sistema anti-fogo; ✔
 
 Sousa: 
 Em doc word: 
